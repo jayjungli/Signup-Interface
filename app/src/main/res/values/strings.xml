@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mayo</string>
+    <string name="facebook_app_id">708283437173706</string>
+    <string name="fb_login_protocol_scheme">fb708283437173706</string>
+
+</resources>
